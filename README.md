@@ -1,7 +1,7 @@
 # VR Joystick And Steering Wheel Mechanics
-Raw SteamVR Joystick And Steering Wheel Mechanics.<br>
+This fork aims to adapt the SteamVR version to work with the XR Interation Toolkit.<br>
 👉 Will be really <b>pleased for any contributions</b>, cuz this is neccessary stuff 😎 !<br>
-👉 <b>To use it, you need to install a <a href="https://www.assetstore.unity3d.com/en/#!/content/32647" target="blank_">SteamVR Plugin</a>.</b>
+👉 <b>I dont have the official names of what you need off the top of my head but this tutuorial (https://www.youtube.com/watch?v=yxMzAw2Sg5w&t=1151s) should work fine with this.</b>
 
 Control mechanics used in <a href="https://elysium.today" target="blank_">Project Elysium</a>.
 
